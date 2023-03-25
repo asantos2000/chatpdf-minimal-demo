@@ -1,5 +1,7 @@
 # chatpdf-minimal-demo
 
+Article: [How to Code a Project like ChatPDF?](https://postor.medium.com/how-to-code-a-project-like-chatpdf-e40441cb4168)
+
 [chatpdf](https://www.chatpdf.com/) 的最小实现，和文章对话 | mvp of [chatpdf](https://www.chatpdf.com/)
 
 此项目目的在于研究 chatpdf 实现原理 | this project aims at learn how to build app like chatpdf
